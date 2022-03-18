@@ -1,0 +1,7 @@
+<?
+$MESS["ARISTOV_VARIABLE_SUB_PARAM_SVOYSTVO_INFOBLOKA_NAME"] = "Свойство инфоблока";
+?>
+
+
+
+

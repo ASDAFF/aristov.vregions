@@ -1,0 +1,13 @@
+{
+  "name": "aristov.vregions",
+  "version": "3.17.4",
+  "main": "",
+  "ignore": [
+    "source",
+    ".gitignore",
+    ".idea",
+    "bower.json",
+    "gulpfile.js",
+    "package.json"
+  ]
+}

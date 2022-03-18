@@ -1,0 +1,1 @@
+<?define("aristov_vregions_TEMPORARY_CACHE", "JjEFCSw2UVRpBX1lV2QCLQkj");?>
